@@ -14,4 +14,4 @@ Ingreso de palabra
 
 Jugando
 
-<img src="images/3.png" width="500px" />
+<img src="images/4.png" width="500px" />
